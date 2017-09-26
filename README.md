@@ -1,1 +1,1 @@
-# study
+# ehcache3研究，fork了gordonklg的一个ehcache3分支，便于自己做研究和优化一些东西。好的东西会提交到作者处。
